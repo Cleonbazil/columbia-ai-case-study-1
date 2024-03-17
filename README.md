@@ -4,8 +4,8 @@
  climate control.*
 
 >To start our journey in the proper path it is best if develop to the 
-best of our abalities a clear understanding of AI and BMS represent in the 
-context of this project.>
+best of our abalities a clear understanding of what AI and BMS represent in the 
+context of this project.
 
 
 
