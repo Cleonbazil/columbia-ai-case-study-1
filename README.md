@@ -3,9 +3,9 @@
  in Building Management Systems (BMS) to optimize energy usage by regulating 
  climate control.*
 
-<strong>To start our journey in the proper path it is best if develop to the 
+<strong>*To start our journey in the proper path it is best if develop to the 
 best of our abalities a clear understanding of what AI and BMS represent in the 
-context of this project.<strong>
+context of this project.*<strong>
 
 #### *What is AI?*
 >'Artificial Intelligence or AI is a technology that enables computers and 
@@ -25,6 +25,30 @@ data and make increasingly more accurate classifications or predictions over
 time.'
 
 [1][https://www.ibm.com/topics/artificial-intelligence]
+
+#### *What is BMS?*
+>'A Building Management System (BMS), sometimes called a Building Automation 
+System (BAS), is a computer-based system installed to control and monitor a 
+building's electrical equipment such as ventilation, lighting, energy, fire 
+systems, and security systems. It consists of software and hardware.
+
+>A BMS is crucial to managing demand for energy in a cost-effective way and 
+essential to all new builds. It allows owners and landlords of buildings to 
+reduce energy costs and provide optimum comfort for users, tenants and 
+residents of the buildings. It allows remote management of heating, ventilation 
+and air conditioning (HVAC) so that maintenance staff do not have to spend time 
+visiting each building or room to shut down, switch on or adjust temperature 
+levels or air conditioning.
+
+>Because data is consolidated in a single system, a BMS improves reporting and 
+information management leading to quality, informed decision-making, better 
+performance and a reduction in energy use, thereby saving money.'
+
+[2][https://www.triadcontrols.co.uk/what-is-a-building-management-system-]
+
+
+
+
 
 
 
