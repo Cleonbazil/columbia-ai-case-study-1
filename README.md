@@ -3,9 +3,9 @@
  in Building Management Systems (BMS) to optimize energy usage by regulating 
  climate control.*
 
-    To start our journey in the proper path it is best if develop to the 
+>To start our journey in the proper path it is best if develop to the 
 best of our abalities a clear understanding of AI and BMS represent in the 
-context of this project.
+context of this project.>
 
 
 
