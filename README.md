@@ -112,9 +112,9 @@ useful as the share of intermittent renewable sources of energy increases.'
 
 ### *Measured benefits include:*
 
-• 'Cost savings and revenue generation equivalent to >10% of annual on-site 
+..*Cost savings and revenue generation equivalent to >10% of annual on-site 
 energy costs;
-• Carbon reduction through load-shifting and efficiency measures 
+..*Carbon reduction through load-shifting and efficiency measures 
 (up to 40% has been evidenced).'
 
 [3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
