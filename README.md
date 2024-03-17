@@ -58,8 +58,10 @@ tenants.*<strong>
 <strong>*The operating costs of a commercial property in a big city like 
 New York are tremendous and avenues to curb their impact on the bottom line are 
 always being explored, allowing the BMS to learn how/when energy is used to
-optimally modify setpoints accoridingly would be a significant step to this 
-end.*<strong>
+optimally modify setpoints accoridingly, detect equiment failure and/or
+malfuction, recommend equipment maintenace schedules to avoid performance 
+degradation amongst other operational aspects would be a significant step to 
+this end.*<strong>
 
 
 
