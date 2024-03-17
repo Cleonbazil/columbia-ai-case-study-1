@@ -7,6 +7,8 @@
 best of our abalities a clear understanding of what AI and BMS represent in the 
 context of this project.
 
+### $${\color{black}What\space is\space AI?}$$
+
 
 
  
