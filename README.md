@@ -1,7 +1,7 @@
 # $${\color{blue}AI\space on\space BMS}$$ 
 *This project explores the implementation of Artificial Intellillenge (AI)
  in Building Management Systems (BMS) to optimize energy usage by regulating 
- climate control.*
+ climate control and monitoring equiment performance.*
 
 <strong>*To start our journey in the proper path it is best if develop to the 
 best of our abalities a clear understanding of what AI and BMS represent in the 
@@ -62,6 +62,30 @@ optimally modify setpoints accoridingly, detect equiment failure and/or
 malfuction, recommend equipment maintenace schedules to avoid performance 
 degradation amongst other operational aspects would be a significant step to 
 this end, and AI is the tool which affords this ability to the BMS.*<strong>
+
+### Flex2X (Example 1)
+>'One of these systems is called “Flex2X”, developed by UK-based company 
+Grid Edge. The system works by combining data obtained from a building’s 
+existing energy management system with other data sources (for example, on 
+weather conditions) and analysing it using artificial intelligence algorithms 
+that can optimise the building’s energy use in real time. The algorithms are 
+considered “artificially intelligent” because they change based on the data they
+receive, a process referred to as “learning”. This allows the software to make 
+predictions for the building’s energy use, 24 hours in advance, based on its 
+experiences in the past.
+
+>The software is also connected to the electricity meter and the wider 
+electricity network. This allows it to monitor the price and generation mix of 
+electricity, and decide when to increase or decrease the electricity load of the
+building, based on the cost or carbon-intensity of electricity at any given 
+time.
+
+>By controlling when the building uses more or less energy, the software converts
+the building’s electricity load profile from being more or less a fixed load, 
+into a flexible load. Flexible loads are a valuable commodity in today’s energy
+markets because they help energy market operators to better manage peaks and 
+troughs in demand, and incorporate more intermittent renewable energy sources 
+into the grid.
 
 
 
