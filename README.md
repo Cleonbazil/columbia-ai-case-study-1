@@ -63,7 +63,8 @@ malfuction, recommend equipment maintenace schedules to avoid performance
 degradation amongst other operational aspects would be a significant step to 
 this end, and AI is the tool which affords this ability to the BMS.*<strong>
 
-### *Flex2X* (Example 1)
+## Case Study-1 
+### *Flex2X* 
 >'One of these systems is called “Flex2X”, developed by UK-based company 
 Grid Edge. The system works by combining data obtained from a building’s 
 existing energy management system with other data sources (for example, on 
@@ -85,7 +86,36 @@ the building’s electricity load profile from being more or less a fixed load,
 into a flexible load. Flexible loads are a valuable commodity in today’s energy
 markets because they help energy market operators to better manage peaks and 
 troughs in demand, and incorporate more intermittent renewable energy sources 
-into the grid.
+into the grid.'
+
+### *Impact*
+>'This technology could potentially realise a number of benefits for a range of 
+parties.
+>For building occupants, increasing the intelligence of the building management 
+system should ensure that comfort is optimised and energy services are available
+when needed while energy costs are reduced thanks to reduced wastage. In 
+addition, occupants interested in questions such as the sustainability of their 
+building’s operations would have access to real-time data on information such as
+>the carbon-intensity of the building’s energy supply.
+
+>For building owners/operators, intelligent building management systems like 
+Grid Edge offer the opportunity to reduce costs, cut carbon and maximise comfort
+through load-shifting and optimisation, as well as recoup the cost of upgrading 
+the building, by selling the building’s flexible load on the market. This could 
+translate to a greater willingness to invest in sustainability upgrades, knowing 
+that the upfront costs of such upgrades could be offset through trading the 
+building’s flexible load.
+
+>For grid operators, this technology promises to unlock new, predictable sources 
+of flexible demand, which will help in balancing supply and demand, especially 
+useful as the share of intermittent renewable sources of energy increases.'
+
+### *Measured benefits include:*
+
+• 'Cost savings and revenue generation equivalent to >10% of annual on-site 
+energy costs;
+• Carbon reduction through load-shifting and efficiency measures 
+(up to 40% has been evidenced).'
 
 [3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
 
