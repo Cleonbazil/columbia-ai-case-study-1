@@ -63,7 +63,7 @@ malfuction, recommend equipment maintenace schedules to avoid performance
 degradation amongst other operational aspects would be a significant step to 
 this end, and AI is the tool which affords this ability to the BMS.*<strong>
 
-### Flex2X (Example 1)
+### *Flex2X* (Example 1)
 >'One of these systems is called “Flex2X”, developed by UK-based company 
 Grid Edge. The system works by combining data obtained from a building’s 
 existing energy management system with other data sources (for example, on 
@@ -86,6 +86,8 @@ into a flexible load. Flexible loads are a valuable commodity in today’s energ
 markets because they help energy market operators to better manage peaks and 
 troughs in demand, and incorporate more intermittent renewable energy sources 
 into the grid.
+
+[3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
 
 
 
