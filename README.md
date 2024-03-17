@@ -61,7 +61,7 @@ always being explored, allowing the BMS to learn how/when energy is used to
 optimally modify setpoints accoridingly, detect equiment failure and/or
 malfuction, recommend equipment maintenace schedules to avoid performance 
 degradation amongst other operational aspects would be a significant step to 
-this end.*<strong>
+this end, and AI is the tool which affords this ability to the BMS.*<strong>
 
 
 
