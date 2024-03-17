@@ -48,6 +48,16 @@ performance and a reduction in energy use, thereby saving money.'
 
 *BMS MAGE*
 
+<strong>*Now that our two main characters have a better difined outline we can
+direct our attetion to why and how they converged. As stated above AI allows
+a system to learn and make decisions, and a BMS cost-effectively manages the 
+energy usage of the property through constant monitoring and consequent 
+parameter adjustments to minimize it while satisfying the needs of the tenants.
+
+The operating costs of a commercial property in a big city like New York are 
+tremendous and avenues to curb their impact on the bottom line are always being
+explored, allowing the BMS to learn how/when energy is used to optimally
+modify setpoints accoridingly would be a significant step to this end.*<strong>
 
 
 
