@@ -100,7 +100,9 @@ energy costs.
 
 [3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
 
-# $${\color{blue}Grid\space Edge}$$ 
+
+
+# $${\color{green}Grid\space Edge}$$ 
 
 ## *The Mission*
 ## $${\color{green}Change\space The\space Way\space That\space People\space Use\space Energy}$$
