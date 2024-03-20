@@ -101,7 +101,7 @@ energy costs.
 [3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
 
 ## *The Mission*
-## $${\color{green}'Change\space The\space Way\space That\space People\space Use\space Energy'}$$
+## $${\color{green}Change\space The\space Way\space That\space People\space Use\space Energy}$$
 
 ## *The founders*
 ### Dan Wright:
@@ -126,17 +126,6 @@ proudest achievement has been building Grid Edge's family of bright,
 enthusiastic and passionate engineers, data scientists and professionals. Prior 
 to co-founding Grid Edge, Tom enjoyed a successful career with the European 
 Bioenergy Research Institute.
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## The Company
