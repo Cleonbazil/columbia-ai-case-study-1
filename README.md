@@ -73,7 +73,7 @@ patterns up to 24 hours in advance based previous processed data*<strong>
 
 <strong>*The system is linked to the electric grid allowing it to track the price 
 and availability of energy in real time, which enables it to adjust the 
-property's load of the based on the cost or carbon-intensity of electricity*<strong>
+property's load based on energy cost or carbon-intensity*<strong>
 
 <strong>*This capability is pivotal in transforming the building's load profile 
 from fixed to flexible making a valuable commodity which allows the energy 
@@ -100,7 +100,12 @@ energy costs.
 
 [3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
 
+## The Mission
+$${\color{green}'Change\space The\space Way\space That\space People\spance\ Use\sapce Energy'}$$
 
+## The Company
+<strong>*Grid Edge was founded in 2017 by Dan Wright, Jim Scott and 
+Tom Anderson with a clear mission 'change the way that people use energy
 
 
 
