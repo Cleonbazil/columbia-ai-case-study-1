@@ -44,8 +44,6 @@ levels or air conditioning.
 information management leading to quality, informed decision-making, better 
 performance and a reduction in energy use, thereby saving money.'
 
-<img width="30px" src="./Users/Chris/Pictures/bms_2.png" alt="bms_2 png" />
-
 [2]
 
 <strong>*Now that our two main characters have a better difined outline we can
