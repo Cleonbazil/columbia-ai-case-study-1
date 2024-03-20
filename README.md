@@ -132,7 +132,15 @@ Bioenergy Research Institute.
 
 ## The Company
 <strong>*Grid Edge was founded in 2017 by Dan Wright, Jim Scott and 
-Tom Anderson with a clear mission 'change the way that people use energy
+Tom Anderson with a clear mission 'change the way that people use energy'
+tranforming costumers from mere consumers to 'active informed and intellingent'
+participants in the way tenants use energy by empowering them with the 
+necessary information to make better decisions.
+
+### How?
+>We mine high accuracy data from a building, apply artificial intelligence, and 
+to turn it into meaningful, actionable insights to inform comfort, carbon and 
+cost decision-making.
 
 
 
