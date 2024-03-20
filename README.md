@@ -101,7 +101,7 @@ energy costs.
 [3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
 
 ## The Mission
-$${\color{green}'Change\space The\space Way\space That\space People\spance Use\sapce Energy'}$$
+$${\color{green}'Change\space The\space Way\space That\space People\space Use\space Energy'}$$
 
 ## The Company
 <strong>*Grid Edge was founded in 2017 by Dan Wright, Jim Scott and 
