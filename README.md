@@ -120,7 +120,11 @@ energy costs.
 [3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
 
 
-
+<strong>* As we can see AI implementation provides plenty of useful capabilities
+to building management systems which positively impact the bottom line. The 
+New York State Energy Research and Development Authority NYSERDA has developed
+an initiative that harnesses AI in addition to other resources to optimize 
+energy usage throughout the sate dubbed Real Time Energy Management (RTEM).
 
 
 
