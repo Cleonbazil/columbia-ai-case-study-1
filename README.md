@@ -55,63 +55,44 @@ energy usage of the property through constant monitoring and consequent
 parameter adjustments to minimize it while satisfying the needs of the 
 tenants.*<strong>
 
-<strong>*The operating costs of a commercial property in a big city like 
-New York are tremendous and avenues to curb their impact on the bottom line are 
-always being explored, allowing the BMS to learn how/when energy is used to
-optimally modify setpoints accoridingly, detect equiment failure and/or
+<strong>*The operating costs of a commercial property in a big city like
+New York or London are tremendous and avenues to curb their impact on the bottom 
+line are always being explored, allowing the BMS to learn how/when energy is 
+used to optimally modify setpoints accoridingly, detect equiment failure and/or
 malfuction, recommend equipment maintenace schedules to avoid performance 
 degradation amongst other operational aspects would be a significant step to 
 this end, and AI is the tool which affords this ability to the BMS.*<strong>
 
-## Case Study-1 
+## The Tech 
 ### *Flex2X* 
->'One of these systems is called “Flex2X”, developed by UK-based company 
-Grid Edge. The system works by combining data obtained from a building’s 
-existing energy management system with other data sources (for example, on 
-weather conditions) and analysing it using artificial intelligence algorithms 
-that can optimise the building’s energy use in real time. The algorithms are 
-considered “artificially intelligent” because they change based on the data they
-receive, a process referred to as “learning”. This allows the software to make 
-predictions for the building’s energy use, 24 hours in advance, based on its 
-experiences in the past.
+<strong>*“Flex2X” is a system developed by UK-based company Grid Edge. 
+The system recieves the data from a property's existing BMS and harnesses AI
+to optimize the building’s energy usage . Artificial's intelligence ability to 
+learn allows for the system to predict the property's posible energy consumption
+patterns up to 24 hours in advance based previous processed data*<strong>
 
->The software is also connected to the electricity meter and the wider 
-electricity network. This allows it to monitor the price and generation mix of 
-electricity, and decide when to increase or decrease the electricity load of the
-building, based on the cost or carbon-intensity of electricity at any given 
-time.
+<strong>*The system is linked to the electric grid allowing it to track the price 
+and availability of energy in real time, which enables it to adjust the 
+property's load of the based on the cost or carbon-intensity of electricity*<strong>
 
->By controlling when the building uses more or less energy, the software converts
-the building’s electricity load profile from being more or less a fixed load, 
-into a flexible load. Flexible loads are a valuable commodity in today’s energy
-markets because they help energy market operators to better manage peaks and 
-troughs in demand, and incorporate more intermittent renewable energy sources 
-into the grid.'
+<strong>*This capability is pivotal in transforming the building's load profile 
+from fixed to flexible making a valuable commodity which allows the energy 
+markets to better manage the grid's energy demand*<strong>
 
-### *Impact*
->'This technology could potentially realise a number of benefits for a range of 
-parties.
->For building occupants, increasing the intelligence of the building management 
-system should ensure that comfort is optimised and energy services are available
-when needed while energy costs are reduced thanks to reduced wastage. In 
-addition, occupants interested in questions such as the sustainability of their 
-building’s operations would have access to real-time data on information such as
->the carbon-intensity of the building’s energy supply.
+### *The Benefits*
+#### For occupants: 
+1. Increased confort whith reduce energy waste
+2. Greater energy availability and reduced costs
+3. Sustainable building operations
 
->For building owners/operators, intelligent building management systems like 
-Grid Edge offer the opportunity to reduce costs, cut carbon and maximise comfort
-through load-shifting and optimisation, as well as recoup the cost of upgrading 
-the building, by selling the building’s flexible load on the market. This could 
-translate to a greater willingness to invest in sustainability upgrades, knowing 
-that the upfront costs of such upgrades could be offset through trading the 
-building’s flexible load.
+#### For owners:
+1. Greater cost reduction opportunities
+2. Reduced waste
+3. Carbon foot-print reduction
+4. Revenue derived from selling the building's flexible load profile 
+   in the energy markets
 
->For grid operators, this technology promises to unlock new, predictable sources 
-of flexible demand, which will help in balancing supply and demand, especially 
-useful as the share of intermittent renewable sources of energy increases.'
-
-### *Measured benefits include:*
-
+#### Measured benefits include:
 1. Cost savings and revenue generation equivalent to >10% of annual on-site 
 energy costs.
 2. Carbon reduction through load-shifting and efficiency measures 
@@ -120,11 +101,6 @@ energy costs.
 [3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
 
 
-<strong>* As we can see AI implementation provides plenty of useful capabilities
-to building management systems which positively impact the bottom line. The 
-New York State Energy Research and Development Authority NYSERDA has developed
-an initiative that harnesses AI in addition to other resources to optimize 
-energy usage throughout the sate dubbed Real Time Energy Management (RTEM).
 
 
 
