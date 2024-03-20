@@ -24,7 +24,7 @@ decision-making processes of the human brain, that can ‘learn’ from availabl
 data and make increasingly more accurate classifications or predictions over 
 time.'
 
-[1][https://www.ibm.com/topics/artificial-intelligence]
+[1]
 
 #### *What is BMS?*
 >'A Building Management System (BMS), sometimes called a Building Automation 
@@ -44,9 +44,7 @@ levels or air conditioning.
 information management leading to quality, informed decision-making, better 
 performance and a reduction in energy use, thereby saving money.'
 
-[2][https://www.triadcontrols.co.uk/what-is-a-building-management-system-]
-
-*BMS MAGE*
+[2]
 
 <strong>*Now that our two main characters have a better difined outline we can
 direct our attetion to why and how they converged. As stated above AI allows
@@ -98,7 +96,7 @@ energy costs.
 2. Carbon reduction through load-shifting and efficiency measures 
 (up to 40% has been evidenced).
 
-[3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
+[3]
 
 # $${\color{green}Grid\space Edge}$$ 
 
@@ -135,17 +133,37 @@ Bioenergy Research Institute.
 Tom Anderson with a clear mission 'change the way that people use energy'
 tranforming costumers from mere consumers to 'active informed and intellingent'
 participants in the way tenants use energy by empowering them with the 
-necessary information to make better decisions.
+necessary information to make better decisions.*<strong>
 
 ### How?
 >We mine high accuracy data from a building, apply artificial intelligence, and 
 to turn it into meaningful, actionable insights to inform comfort, carbon and 
 cost decision-making.
 
+[4]
 
 
+## The Money
+### Grid Edge is funded by:
+1. bp ventures.
+2. Goldacre (part of the Noé Group) 
+3. Aston University.
+
+[5]
+[6]
+[7]
+
+## The Blog
+[https://gridedge.ai/blog/]
 
 
+## The References
 
- 
+[1][https://www.ibm.com/topics/artificial-intelligence]
+[2][https://www.triadcontrols.co.uk/what-is-a-building-management-system-]
+[3][https://www.iea.org/articles/case-study-artificial-intelligence-for-building-energy-management-systems]
+[4][https://gridedge.ai/gridedge-team/]
+[5][https://www.bp.com/en/global/bp-ventures.html]
+[6][http://goldacre.com/]
+[7][https://www.aston.ac.uk/]
 
