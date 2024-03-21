@@ -24,6 +24,9 @@ decision-making processes of the human brain, that can ‘learn’ from availabl
 data and make increasingly more accurate classifications or predictions over 
 time.'
 
+![AI image](https://github.com/Cleonbazil/columbia-ai-case-study-1/assets/162933834/5845cc52-cf05-452e-8983-e25779a89320)
+
+
 [1]
 
 #### *What is BMS?*
