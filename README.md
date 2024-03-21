@@ -44,10 +44,6 @@ levels or air conditioning.
 information management leading to quality, informed decision-making, better 
 performance and a reduction in energy use, thereby saving money.'
 
-![bms_2](https://github.com/Cleonbazil/columbia-ai-case-study-1/assets/162933834/e14b07c5-f954-4639-8c32-3c35391f9cc2)
-
-
-
 
 [2]
 
@@ -110,28 +106,18 @@ energy costs.
 
 ## *The founders*
 ### Dan Wright:
->'Formerly a Research Fellow in Operational Research (OR) at the European 
-Bioenergy Research Institute, Dan continues to apply his research in OR and AI 
-to buildings increased participation on the grid-edge. His multi-disciplinary 
-background in energy and applied mathematics provide a unique insight into the 
-opportunities in applying novel methods to support our customers saving cost and 
-carbon without compromising on their core operational needs. Dan also led the 
-implementation and operation of Grid Edge’s ISO27001 Information Security Mgmt. 
-System at Grid Edge.'
+>Research Fellow in Operational Research (OR) at the European 
+Bioenergy Research Institute . Dan was pivotal in the efforts to deploy and 
+operate Grid Edge’s ISO27001 Information Security Mgmt. 
+System at Grid Edge.
 
 ### Jim Scott:
 >Co-lead investigator in ITHECA project and PhD in operational research and 
-optimisation methods.Held management position in energy efficiency and 
-consultancy business.Thought-leader and expert in Vehicle-to-Grid sector.
+optimisation methods.
 
 ### Tom Anderson:
->Driven by a mantra of "change versus more of the same", Tom has spent his 
-entire career bringing innovation to the energy sector. As co-founder Tom's 
-proudest achievement has been building Grid Edge's family of bright, 
-enthusiastic and passionate engineers, data scientists and professionals. Prior 
-to co-founding Grid Edge, Tom enjoyed a successful career with the European 
-Bioenergy Research Institute.
-
+>Tom has had a succesful carrer in the Bioenergy Research institute and was key 
+in the recruitment and management of Grid Edege personnel.
 
 ## The Company
 <strong>*Grid Edge was founded in 2017 by Dan Wright, Jim Scott and 
