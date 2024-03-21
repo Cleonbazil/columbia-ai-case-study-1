@@ -44,6 +44,9 @@ levels or air conditioning.
 information management leading to quality, informed decision-making, better 
 performance and a reduction in energy use, thereby saving money.'
 
+![bms_2](https://github.com/Cleonbazil/columbia-ai-case-study-1/assets/162933834/cb5e6acd-0764-4008-8d72-19628a2228a0)
+
+
 
 [2]
 
