@@ -8,7 +8,7 @@ best of our abalities a clear understanding of what AI and BMS represent in the
 context of this project.*<strong>
 
 #### *What is AI?*
-Hello
+Hello my name is christian
 >'Artificial Intelligence or AI is a technology that enables computers and 
 machines to simulate human intelligence and problem solving capabilities.
 
